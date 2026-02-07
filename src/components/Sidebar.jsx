@@ -15,7 +15,7 @@ const Sidebar = ({ activeTab, setActiveTab }) => {
             <div className="p-6 border-b border-nadhir-teal/20">
                 <div className="flex items-center justify-center bg-gradient-to-br from-nadhir-teal/5 to-transparent rounded-xl p-4">
                     <img
-                        src="/Nadhir_Logo_V2_HQ - Edited.png"
+                        src="/nadhir-logo.png"
                         alt="Nadhir Logo"
                         className="w-full h-auto object-contain drop-shadow-[0_0_15px_rgba(20,184,166,0.3)]"
                     />
